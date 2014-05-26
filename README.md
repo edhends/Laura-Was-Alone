@@ -1,13 +1,13 @@
 ####Laura Was Alone
 
-**Purpose of project:** Continuing to learn Unity3D by creating a game similar to Thomas Was Alone.
+**Purpose of project:** Continue to learn Unity3D by making a simple game, reminiscent to Thomas Was Alone.
 
-**DONE**
+*DONE*
 - Basic movement
 - Jump ability
 - Character stretching on jump
 
-**TODO**
+*TODO*
 - Clean up colliders
 - Clean up portal collision
 - More levels
